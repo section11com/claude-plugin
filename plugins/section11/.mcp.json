@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "section11": {
+      "type": "http",
+      "url": "https://section11.com/mcp"
+    }
+  }
+}

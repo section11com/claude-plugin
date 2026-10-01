@@ -1,0 +1,15 @@
+{
+  "name": "section11",
+  "description": "Section11 plugins for Claude",
+  "owner": {
+    "name": "Section11",
+    "url": "https://section11.com"
+  },
+  "plugins": [
+    {
+      "name": "section11",
+      "source": "./plugins/section11",
+      "description": "Marketplace go-live procedures for sellers and agencies, run against your Section11 account"
+    }
+  ]
+}
